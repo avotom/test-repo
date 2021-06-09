@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="table1" max_length="40" name="x_337610_test_table1" type="collection">
+        <element label="col1" max_length="255" name="col1" type="string_full_utf8"/>
+        <element label="col2" max_length="255" name="col2" type="string_full_utf8"/>
+    </element>
+</database>
